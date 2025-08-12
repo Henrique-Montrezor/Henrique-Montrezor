@@ -1,7 +1,8 @@
 <!-- Banner de Apresentação -->
 <h1 align="center">
   Olá, eu sou o Henrique 👋  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Entusiasta+em+IA+%26+Automação;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Entusiasta+em+IA+%26+Automação;Apaixonado+por+Tecnologia" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Python;Entusiasta%20em%20IA%20%26%20Automação;Apaixonado%20por%20Tecnologia
+)" />
 </h1>
 
 <!-- Sobre mim -->
