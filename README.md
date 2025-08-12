@@ -1,4 +1,9 @@
-<!-- Banner de Apresentação -->
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAwYzMyNTBlMWNjZTdlNTM2ZTQzMGRlYTMxZmE0MGRhOWU4MTRjOSZjdD1n/L8K62iTDkzGX6/giphy.gif" alt="Banner Animado" width="100%" />
+</p>
+
+<!-- Nome e animação de digitação -->
 <h1 align="center">
   Olá, eu sou o Henrique 👋  
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Python;Entusiasta%20em%20IA%20%26%20Automação;Apaixonado%20por%20Tecnologia" alt="Typing SVG" />
@@ -42,13 +47,13 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://linkedin.com/in/henrique-montrezor">
+  <a href="https://linkedin.com/in/SEULINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:montrezorhenrique@gmail.com">
+  <a href="mailto:SEUEMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Henrique-Montrezor">
+  <a href="https://github.com/SEU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
