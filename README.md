@@ -1,12 +1,7 @@
-<!-- Banner Animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAwYzMyNTBlMWNjZTdlNTM2ZTQzMGRlYTMxZmE0MGRhOWU4MTRjOSZjdD1n/L8K62iTDkzGX6/giphy.gif" alt="Banner Animado" width="100%" />
-</p>
-
-<!-- Nome e animação de digitação -->
+<!-- Banner de Apresentação -->
 <h1 align="center">
   Olá, eu sou o Henrique 👋  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Python;Entusiasta%20em%20IA%20%26%20Automação;Apaixonado%20por%20Tecnologia" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/typing.svg" alt="Typing SVG" />
 </h1>
 
 <!-- Sobre mim -->
