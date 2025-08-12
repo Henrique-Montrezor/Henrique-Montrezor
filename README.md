@@ -1,8 +1,7 @@
 <!-- Banner de Apresentação -->
 <h1 align="center">
   Olá, eu sou o Henrique 👋  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Entusiasta+em+IA+%26+Automação;Apaixonado+por+Tecnologia" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Python;Entusiasta%20em%20IA%20%26%20Automação;Apaixonado%20por%20Tecnologia
-)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Python;Entusiasta%20em%20IA%20%26%20Automação;Apaixonado%20por%20Tecnologia" alt="Typing SVG" />
 </h1>
 
 <!-- Sobre mim -->
@@ -33,8 +32,8 @@
 
 <div align="center">
 
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrique-Montrezor&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Montrezor&layout=compact&theme=tokyonight)
+![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 </div>
 
