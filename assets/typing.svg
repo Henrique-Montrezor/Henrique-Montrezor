@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 120" width="700" height="120" role="img" aria-label="Typing lines">
+  <style>
+    <![CDATA[
+      text { font-family: "Fira Code", monospace; font-size:20px; fill:#00F7FF; }
+    ]]>
+  </style>
+
+  <!-- clip paths that will animate width to reveal text -->
+  <clipPath id="clip1">
+    <rect x="0" y="12" width="0" height="30">
+      <animate attributeName="width"
+               values="0;660;660;0"
+               keyTimes="0;0.28;0.72;1"
+               dur="8s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <clipPath id="clip2">
+    <rect x="0" y="42" width="0" height="30">
+      <animate attributeName="width"
+               values="0;660;660;0"
+               keyTimes="0;0.28;0.72;1"
+               dur="8s"
+               begin="1.8s"
+               repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <clipPath id="clip3">
+    <rect x="0" y="72" width="0" height="30">
+      <animate attributeName="width"
+               values="0;660;660;0"
+               keyTimes="0;0.28;0.72;1"
+               dur="8s"
+               begin="3.6s"
+               repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <!-- Text lines revealed by the clip paths -->
+  <g clip-path="url(#clip1)">
+    <text x="10" y="34">Desenvolvedor Python</text>
+  </g>
+  <g clip-path="url(#clip2)">
+    <text x="10" y="64">Entusiasta em IA &amp; Automação</text>
+  </g>
+  <g clip-path="url(#clip3)">
+    <text x="10" y="94">Apaixonado por Tecnologia</text>
+  </g>
+</svg>
