@@ -24,17 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrique-Montrezor&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Montrezor&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
